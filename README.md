@@ -41,8 +41,12 @@ My name is Julian Legeny and I'm a web developer from Slovakia.
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure--%230078D4?style=flat-square&logo=microsoftazure&labelColor=%230078D4&logoColor=white" /> 
 
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub--%23181717?style=flat-square&logo=github&labelColor=%23181717&logoColor=white" /> 
-  
 <p>
+  
+### GitHub Stats
+<img alt="GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=juleni&count_private=true" /> 
+<img alt="GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juleni&hide=html&layout=compact" /> 
+  
   
 <!--
 **juleni/juleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
