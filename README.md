@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there and welcome to my GitHub page 👋
+
+My name is Julian Legeny and I'm a web developer from Slovakia.
+
+---
+
+###  What do I do?
+<img alt="React" src="https://img.shields.io/badge/React--%2361DAFB?style=flat-square&logo=react&labelColor=%2361DAFB&logoColor=white" />
 
 <!--
 **juleni/juleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
