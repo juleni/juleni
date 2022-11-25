@@ -24,7 +24,7 @@ My name is Julian Legeny and I'm a web developer from Slovakia.
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL--%234169E1?style=flat-square&logo=postgresql&labelColor=%234169E1&logoColor=white" />  
 
-<img alt="Firebase" src="https://img.shields.io/badge/VS Code--%23FFCA28?style=flat-square&logo=firebase&labelColor=%23FFCA28&logoColor=white" />  
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase--%23FFCA28?style=flat-square&logo=firebase&labelColor=%23FFCA28&logoColor=white" />  
   
 </p>
 
