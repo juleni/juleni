@@ -18,6 +18,8 @@ My name is Julian Legeny and I'm a web developer from Slovakia.
 
 <img alt="Node JS" src="https://img.shields.io/badge/NodeJS--%23339933?style=flat-square&logo=nodedotjs&labelColor=%23339933&logoColor=white" />  
 
+<img alt="JAVA" src="https://img.shields.io/badge/JAVA--red?style=flat-square&labelColor=red&logoColor=white&logo=java" />  
+
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL--%234479A1?style=flat-square&logo=mysql&labelColor=%234479A1&logoColor=white" />  
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL--%234169E1?style=flat-square&logo=postgresql&labelColor=%234169E1&logoColor=white" />  
